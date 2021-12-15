@@ -4,7 +4,6 @@ body{
 
   grid-template-areas: 
         "title title"
-        "menu menu"
         "main  main"
         "ad1   ad1"
         "ad2   ad2"
@@ -14,10 +13,6 @@ body{
 .header{
   grid-area: title;
 } 
-
-#menu{
-  grid-area: menu;
-}
 
 .main{
   grid-area: main;
