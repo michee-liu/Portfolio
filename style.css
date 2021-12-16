@@ -67,11 +67,14 @@ ul{
 }
 
 .centercards{
+	margin-left: 7%;
+}
+
+.two{
 	display: block;
 	margin-left: 50%;
 	margin-right: 50%;
 }
-
 
 .cards{
 	width: 300px;
