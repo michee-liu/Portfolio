@@ -67,15 +67,15 @@ ul{
 }
 
 .centercards{
-	margin-left: 7%;
+	display: block;
+	margin-left: 50%;
+	margin-right: 50%;
 }
 
 
 .cards{
-	display: block;
 	width: 300px;
-	margin-left: 50%;
-	margin-right: 50%;
+	margin: 10px;
 	background-color: #FFFFFF;
     border-radius: 25px;
     box-shadow: 3px 3px 3px 3px #e0e0e0;
